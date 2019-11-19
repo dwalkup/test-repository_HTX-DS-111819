@@ -9,6 +9,7 @@ Gimme a test! (TEST)
 1. Fork this repository
 2. Clone _your_ repository to your local drive
 3. Add a file of some kind to your repository, or make changes to this readme
+3a. This is a change.
 4. Check the status of your repository
 5. Add and commit your changes, then push back to _your_ repository
 
